@@ -1,0 +1,7 @@
+
+Tracing route to google.com [216.239.38.120]
+over a maximum of 30 hops:
+
+  1    47 ms    47 ms    48 ms  any-in-2678.1e100.net [216.239.38.120] 
+
+Trace complete.
