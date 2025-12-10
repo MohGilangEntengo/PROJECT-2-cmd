@@ -1,2 +1,30 @@
+Windows IP Configuration
 
+   Host Name . . . . . . . . . . . . : DESKTOP-B327G39
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) PRO/1000 MT Desktop Adapter
+   Physical Address. . . . . . . . . : 08-00-27-00-67-EE
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : fd17:625c:f037:2:2fca:962c:aebd:dabc(Preferred) 
+   Temporary IPv6 Address. . . . . . : fd17:625c:f037:2:b033:4427:a83:441f(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::ff7c:31cb:afac:ff8c%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.2.15(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 08 December 2025 20:00:57
+   Lease Expires . . . . . . . . . . : 09 December 2025 19:23:49
+   Default Gateway . . . . . . . . . : fe80::2%6
+                                       10.0.2.2
+   DHCP Server . . . . . . . . . . . : 10.0.2.2
+   DHCPv6 IAID . . . . . . . . . . . : 101187623
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-C8-4C-57-08-00-27-00-67-EE
+   DNS Servers . . . . . . . . . . . : 192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
 
