@@ -1,0 +1,46 @@
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING
+  TCP    10.0.2.15:139          0.0.0.0:0              LISTENING
+  TCP    10.0.2.15:50918        4.213.25.240:443       TIME_WAIT
+  TCP    10.0.2.15:51041        118.98.30.243:443      CLOSE_WAIT
+  TCP    10.0.2.15:51042        23.210.96.161:80       CLOSE_WAIT
+  TCP    10.0.2.15:51280        18.64.18.95:443        CLOSE_WAIT
+  TCP    10.0.2.15:51285        13.107.246.59:443      CLOSE_WAIT
+  TCP    10.0.2.15:51286        13.107.246.59:443      CLOSE_WAIT
+  TCP    10.0.2.15:51296        20.198.167.116:443     ESTABLISHED
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:49664             [::]:0                 LISTENING
+  TCP    [::]:49665             [::]:0                 LISTENING
+  TCP    [::]:49666             [::]:0                 LISTENING
+  TCP    [::]:49667             [::]:0                 LISTENING
+  TCP    [::]:49668             [::]:0                 LISTENING
+  TCP    [::]:49669             [::]:0                 LISTENING
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:50605          *:*                    
+  UDP    0.0.0.0:59006          *:*                    
+  UDP    10.0.2.15:137          *:*                    
+  UDP    10.0.2.15:138          *:*                    
+  UDP    10.0.2.15:1900         *:*                    
+  UDP    10.0.2.15:60608        *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:60609        *:*                    
+  UDP    127.0.0.1:61138        *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:60607            *:*                    
+  UDP    [fe80::ff7c:31cb:afac:ff8c%6]:1900  *:*                    
+  UDP    [fe80::ff7c:31cb:afac:ff8c%6]:60606  *:*                    
